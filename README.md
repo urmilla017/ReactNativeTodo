@@ -1,7 +1,9 @@
-React Native To Do
+## React Native To Do
 
-To install all the dependencies:
-  yarn install
+A To-Do app built with React Native
 
-To run:
-  react-native run-ios
++ To install all the dependencies: **yarn install**
+
++ To link packages: **react-native link <package-name>**
+
++ To run: **react-native run-ios**
